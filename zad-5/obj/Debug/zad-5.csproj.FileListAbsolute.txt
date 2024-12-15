@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Nataliq 9a\domashna-16.12\zad-5\bin\Debug\zad-5.exe.config
+C:\Users\Admin\Desktop\Nataliq 9a\domashna-16.12\zad-5\bin\Debug\zad-5.exe
+C:\Users\Admin\Desktop\Nataliq 9a\domashna-16.12\zad-5\bin\Debug\zad-5.pdb
+C:\Users\Admin\Desktop\Nataliq 9a\domashna-16.12\zad-5\obj\Debug\zad-5.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Nataliq 9a\domashna-16.12\zad-5\obj\Debug\zad-5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Nataliq 9a\domashna-16.12\zad-5\obj\Debug\zad-5.exe
+C:\Users\Admin\Desktop\Nataliq 9a\domashna-16.12\zad-5\obj\Debug\zad-5.pdb
